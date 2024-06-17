@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
+
+body {
+  background: rgb(3, 37, 63);
+  color: white;
+  font-family: "Ubuntu Mono";
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-size: 30px;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
